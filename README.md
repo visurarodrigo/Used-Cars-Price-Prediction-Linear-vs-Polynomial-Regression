@@ -35,4 +35,6 @@ This project focuses on modeling used car prices using **Linear** and **Polynomi
 - Pipelines simplified model building with multiple steps.
 - Visualization helped interpret model predictions effectively.
 
-Course - IBM: Data Analysis with Python**  
+Author - Visura Rodrigo
+
+Course - IBM: Data Analysis with Python
